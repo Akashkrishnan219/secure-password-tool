@@ -11,7 +11,7 @@ Flexible Length: Generate passwords from 8 to 50 characters
 🚀 How to Use
 
 Clone the repository:
-bashgit clone https://github.com/Akashkrishnan219/secure-password-tool.git
+bash git clone https://github.com/Akashkrishnan219/secure-password-tool.git
 cd password-generator
 
 Run the generator:
